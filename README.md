@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @ryanalloway
+- 👋 Hello, I’m @RyanAlloway
 - 👀 My interests include boating, scuba diving, and software design.
 - 🌟 I’m passionate about developing creative software solutions and exploring new technologies.
 - 💞️ I’m eager to collaborate on innovative software projects.
